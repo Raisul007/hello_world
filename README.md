@@ -1,2 +1,2 @@
 # hello_world
-Just another repository
+This page is for the learning purpose of github
